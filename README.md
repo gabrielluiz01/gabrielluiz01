@@ -1,4 +1,4 @@
-### Helloooou eu sou Gabriel Luiz 👋
+## Helloooou eu sou Gabriel Luiz, desenvolvedor front-end💻
 
 <div align="center">
   <a href="https://github.com/gabrielluiz01">
