@@ -1,4 +1,4 @@
-## Helloooou eu sou Gabriel Luiz, desenvolvedor front-end💻
+## Helloooou eu sou Gabriel Luiz, desenvolvedor full stack💻
 
 <div align="center">
   <a href="https://github.com/gabrielluiz01">
